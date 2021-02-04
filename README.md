@@ -9,7 +9,7 @@ My first job was with the U.S. Fish and Wildlife Service (USFWS) in RI managing 
 
 The following table shows the several organizations I have volunteered with, along with brief descriptions of the work performed. 
 
-Organizations | Brief Description 
+Organization | Brief Description 
 ------|---------------------------
 Kingston Wildlife Research Station | Bird banding 
 URI NRS Department| American woodcock singing-ground surveys
