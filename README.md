@@ -11,7 +11,7 @@ The following table shows the several organizations I have volunteered with, alo
 
 Organization | Brief Description 
 ------|---------------------------
-Kingston Wildlife Research Station | Bird banding 
+Kingston Wildlife Research Station | Bird banding and morphological measurements
 URI NRS Department| American woodcock singing-ground surveys
 RI Department of Environmental Management| Projects related to wild turkeys, white-tailed deer, bats, Canada geese, river herring, and habitat management
 USFWS| Preparation for shorebird and New England cottontail projects 
