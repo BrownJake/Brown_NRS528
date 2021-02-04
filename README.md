@@ -7,10 +7,10 @@ While studying at URI I have taken advantage of many opportunities to get involv
 ## Experience and Skills
 My first job was with the U.S. Fish and Wildlife Service (USFWS) in RI managing breeding populations of piping plovers and least terns. 
 
-The following table shows the several groups I have volunteered with, along with brief descriptions of the work performed. 
+The following table shows the several organizations I have volunteered with, along with brief descriptions of the work performed. 
 
-Group | Brief Description 
-------|------------------
+Organizations | Brief Description 
+------|---------------------------
 Kingston Wildlife Research Station | Bird banding 
 URI NRS Department| American woodcock singing-ground surveys
 RI Department of Environmental Management| Projects related to wild turkeys, white-tailed deer, bats, Canada geese, river herring, and habitat management
