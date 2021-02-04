@@ -13,7 +13,7 @@ Group | Brief Description
 ------|------------------
 Kingston Wildlife Research Station | Bird banding 
 URI NRS Department| American woodcock singing-ground surveys
-RI Department of Environmental Management| Projects related to wild turkeys, deer, bats, Canada geese, river herring, and habitat management
+RI Department of Environmental Management| Projects related to wild turkeys, white-tailed deer, bats, Canada geese, river herring, and habitat management
 USFWS| Preparation for shorebird and New England cottontail projects 
 Save the Bay| Monitoring river herring and saltmarsh planting 
 Friends of Canonchet Farm| Invasive plant removal and trail maintenance
