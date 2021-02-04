@@ -35,5 +35,5 @@ My education, first job, and volunteering has provided me with various skills in
 * Time management, following scientific protocols, and a team player 
 * Collecting field data and data entry
 * Communicating in written and oral formats 
-* Good physical shape and capable of working if difficult field conditions
+* Good physical shape and capable of working in difficult field conditions
 * Experience operating 4WD vehicles and kayaking 
