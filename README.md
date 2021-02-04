@@ -7,4 +7,4 @@ While studying at URI I have taken advantage of many opportunities to get involv
 ## Experience
 My first job was with the U.S. Fish and Wildlife Service in RI managing breeding populations of piping plovers and least terns. 
 
-The following table shows the several groups I have volunteered with, along with brief descriptions of the work performed. My [LinkedIn account] (https://www.linkedin.com/in/jake-w-brown-7bb512202/) provides greater detail of my professional and volunteer experience. 
+The following table shows the several groups I have volunteered with, along with brief descriptions of the work performed. My [LinkedIn](https://www.linkedin.com/in/jake-w-brown-7bb512202/) provides greater detail of my professional and volunteer experience. 
