@@ -37,5 +37,3 @@ My education, first job, and volunteering has provided me with various skills in
 * Communicating in written and oral formats 
 * Good physical shape and capable of working if difficult field conditions
 * Experience operating 4WD vehicles and kayaking 
-
-I hope to utilize these skills in future jobs and volunteer work.
