@@ -22,7 +22,7 @@ The Nature Conservancy| Filling oyster shell bags
 
 My [LinkedIn](https://www.linkedin.com/in/jake-w-brown-7bb512202/) account provides greater detail of my professional and volunteer experience. 
 
-My education, first job, and volunteering has provided me with various skills in many areas that I hope to utilize in future jobs and volunteer work. 
+My education, first job, and volunteering has provided me with various skills in many areas: 
 * Microsoft 
   * Word, PowerPoint, and Excel
 * R, ArcGIS, and ERDAS Imagine
@@ -37,3 +37,5 @@ My education, first job, and volunteering has provided me with various skills in
 * Communicating in written and oral formats 
 * Good physical shape and capable of working if difficult field conditions
 * Experience operating 4WD vehicles and kayaking 
+
+I hope to utilize these skills in future jobs and volunteer work.
