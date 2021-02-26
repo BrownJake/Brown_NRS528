@@ -39,7 +39,7 @@ print("Average for Entire Dataset = " + str(sum(values) / len(values)) + " ppm")
 
 # 1. Average for Each Year in Dataset
 # First, create empty dictionary to store values for each year
-year_value_dict = {}
+year_dict = {}
 
 # Use for loop to create temporary list for each year
 # Open and read in the comma delimited csv file
@@ -59,10 +59,10 @@ for year in years:
                 temp_years.append(float(row[1]))
 
 # Populate the dictionary created at beginning with averages for each year
-    year_value_dict[year] = str(sum(temp_years) / len(temp_years))
+    year_dict[year] = str(sum(temp_years) / len(temp_years))
 
 # Print the average for each year from 1958 to 2017
-print(year_value_dict)
+print(year_dict)
 
 # 3. Seasonal Averages for Spring, Summer, Fall, and Winter
 # First, create empty lists for each season
