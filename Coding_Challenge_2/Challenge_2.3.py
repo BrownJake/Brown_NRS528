@@ -19,6 +19,7 @@ def word_count(str):
             counts[i] = 1
     return counts
 
+#Feedback, again good job, well commented and very neat code. Impressive.
 
 # Print the word plus the count
 print(word_count(string))

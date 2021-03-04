@@ -19,3 +19,6 @@ for i in list_a:
 for j in list_b:
     if j not in list_a:
         print(j)
+
+#Feedback - Excellent, well done. You came up with a good solution to what can be
+# a tricky problem

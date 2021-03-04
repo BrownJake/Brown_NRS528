@@ -119,3 +119,6 @@ with open("co2-ppm-daily.csv") as co2_csv:
 
 # Print anomalies for each year from 1958 to 2017
 print(anomaly_dict)
+
+
+# Feedback - I would be proud if I wrote this myself. You are doing a PHENOMENAL JOB!

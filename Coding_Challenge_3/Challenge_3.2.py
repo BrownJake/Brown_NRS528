@@ -24,3 +24,7 @@ monster_list = [sys.argv[1], sys.argv[2], sys.argv[3]]
 for monster in monster_list:
     score_scrabble = sum(score[m] for m in monster.lower())
     print(monster.lower() + " gets a score of " + str(score_scrabble) + "!")
+
+
+# Feedback - Again, excellent, and well done with sys.argv, can't beat this. Perfect. But see feedback for 2.5, as
+# you'lll see that I can kill your code if I add an unknown character as input.

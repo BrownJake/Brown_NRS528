@@ -17,11 +17,29 @@ score = {"a": 1, "e": 1, "i": 1, "o": 1, "u": 1, "l": 1, "n": 1, "r": 1, "s": 1,
 # while i.lower will convert letters to lowercase to avoid errors,
 # finally, return the score for the word entered
 def scrabble_score(word):
-    total = 0
-    for i in word:
-        total = total + score[i.lower()]
-    return total
+
+    word = word.lower()
+
+    not_in_dict = []
+
+    for k in word:
+        if not k in score:
+            not_in_dict.append(k)
+
+    if len(not_in_dict) > 0:
+        print("Sorry, I cannot run as you have provided an incorrect character")
+    else:
+        total = 0
+        for i in word:
+            total = total + score[i.lower()]
+        print("Here is your score: " + str(total))
+        return
 
 
 # Print score for the word entered (e.g., dog, zebra, elephant, etc.)
-print(scrabble_score("Enter word here"))
+scrabble_score("Enter")
+
+#Feedback- your code threw an error, as "Enter word here", contains whitespace that does not
+#match your dict, so I suggest using some other way to pull in the needed string, but also
+# you should try to pick up on a key error such as a unknown character being added. I've extended
+# your code with a basic test to capture this.
