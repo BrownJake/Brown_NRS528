@@ -27,3 +27,8 @@ where_clause = '"COUNTY" = \'KENT\''
 arcpy.Select_analysis(in_feature, out_feature, where_clause)
 
 # Display the Kent County feature on ArcGIS Pro and compare it with the original towns data to make sure it worked
+
+
+
+### Feedback - Great work once more Jake, only suggestion is to improve your use of
+# print statements to provide user updates. Without it, it is not intuitive what is happening.
